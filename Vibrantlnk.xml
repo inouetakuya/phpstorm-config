@@ -912,6 +912,16 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="EL_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" />
@@ -1722,6 +1732,26 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="JSP_DIRECTIVE_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="JSP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="LESS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -1805,6 +1835,16 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="80807f" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -2712,6 +2752,26 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="SCOPE_KEY_Changed Files">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SCOPE_KEY_Default">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="SCOPE_KEY_Non-Project Files">
       <value>
         <option name="FOREGROUND" />
@@ -2756,6 +2816,16 @@
       <value>
         <option name="FOREGROUND" />
         <option name="BACKGROUND" value="4f4f82" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SMARTY_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -3010,6 +3080,16 @@
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" value="ff" />
+      </value>
+    </option>
+    <option name="TWIG_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
