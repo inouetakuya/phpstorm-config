@@ -88,6 +88,10 @@
     <keyboard-shortcut first-keystroke="shift control S" />
     <keyboard-shortcut first-keystroke="control X" second-keystroke="control W" />
   </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift F11" />
+    <keyboard-shortcut first-keystroke="meta L" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
   </action>
@@ -102,6 +106,10 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="F11" />
+    <keyboard-shortcut first-keystroke="meta B" />
   </action>
 </keymap>
 
