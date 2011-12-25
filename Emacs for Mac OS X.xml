@@ -65,6 +65,9 @@
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="shift meta COMMA" />
   </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="R" />
+  </action>
   <action id="EditorToggleStickySelection">
     <keyboard-shortcut first-keystroke="shift control 2" />
     <keyboard-shortcut first-keystroke="control SPACE" />
