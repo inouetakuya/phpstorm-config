@@ -26,6 +26,10 @@
   <action id="Editor SelectAll">
     <keyboard-shortcut first-keystroke="control X" second-keystroke="H" />
   </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="ENTER" />
+    <keyboard-shortcut first-keystroke="control M" />
+  </action>
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="ESCAPE" second-keystroke="ESCAPE" />
     <keyboard-shortcut first-keystroke="control G" />
