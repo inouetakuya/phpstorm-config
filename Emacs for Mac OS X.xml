@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="Emacs for Mac OS X" parent="Emacs">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift control Z" />
+    <keyboard-shortcut first-keystroke="shift alt MINUS" />
+    <keyboard-shortcut first-keystroke="control BACK_SLASH" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt SLASH" />
+  </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift control C" />
+    <keyboard-shortcut first-keystroke="control meta U" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="control BACK_SLASH" />
   </action>
   <action id="EditorPageUp">
     <keyboard-shortcut first-keystroke="PAGE_UP" />
     <keyboard-shortcut first-keystroke="control Z" />
     <keyboard-shortcut first-keystroke="alt V" />
     <keyboard-shortcut first-keystroke="meta V" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift control alt V" />
+    <keyboard-shortcut first-keystroke="control meta V" />
   </action>
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="shift meta PERIOD" />
@@ -18,6 +34,10 @@
   <action id="EditorToggleStickySelection">
     <keyboard-shortcut first-keystroke="shift control 2" />
     <keyboard-shortcut first-keystroke="control SPACE" />
+  </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="alt Y" />
+    <keyboard-shortcut first-keystroke="meta Y" />
   </action>
   <action id="SavaAs">
     <keyboard-shortcut first-keystroke="shift control S" />
