@@ -29,6 +29,18 @@
   <action id="Editor SelectAll">
     <keyboard-shortcut first-keystroke="control X" second-keystroke="H" />
   </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="control CLOSE_BRACKET" />
+    <keyboard-shortcut first-keystroke="control alt CLOSE_BRACKET" />
+    <keyboard-shortcut first-keystroke="control alt B" />
+    <keyboard-shortcut first-keystroke="control C" second-keystroke="CLOSE_BRACKET" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="control OPEN_BRACKET" />
+    <keyboard-shortcut first-keystroke="control alt OPEN_BRACKET" />
+    <keyboard-shortcut first-keystroke="control alt F" />
+    <keyboard-shortcut first-keystroke="control C" second-keystroke="OPEN_BRACKET" />
+  </action>
   <action id="EditorEnter">
     <keyboard-shortcut first-keystroke="ENTER" />
     <keyboard-shortcut first-keystroke="control M" />
