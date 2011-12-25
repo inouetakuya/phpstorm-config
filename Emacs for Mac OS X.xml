@@ -35,9 +35,26 @@
     <keyboard-shortcut first-keystroke="shift control 2" />
     <keyboard-shortcut first-keystroke="control SPACE" />
   </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift control F" />
+    <keyboard-shortcut first-keystroke="meta F" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="F3" />
+    <keyboard-shortcut first-keystroke="alt S" />
+    <keyboard-shortcut first-keystroke="control S" />
+  </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="alt Y" />
     <keyboard-shortcut first-keystroke="meta Y" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift alt 5" />
+    <keyboard-shortcut first-keystroke="control C" second-keystroke="R" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift control R" />
+    <keyboard-shortcut first-keystroke="meta R" />
   </action>
   <action id="SavaAs">
     <keyboard-shortcut first-keystroke="shift control S" />
