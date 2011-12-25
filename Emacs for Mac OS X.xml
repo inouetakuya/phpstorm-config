@@ -69,6 +69,10 @@
     <keyboard-shortcut first-keystroke="shift control 2" />
     <keyboard-shortcut first-keystroke="control SPACE" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="control F12" />
+    <keyboard-shortcut first-keystroke="control QUOTE" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift control F" />
     <keyboard-shortcut first-keystroke="meta F" />
@@ -103,10 +107,6 @@
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="alt Y" />
     <keyboard-shortcut first-keystroke="meta Y" />
-  </action>
-  <action id="RecentChanges">
-    <keyboard-shortcut first-keystroke="shift alt C" />
-    <keyboard-shortcut first-keystroke="control QUOTE" />
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="control SEMICOLON" />
