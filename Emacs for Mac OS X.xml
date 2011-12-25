@@ -111,6 +111,9 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="control SEMICOLON" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="control meta BACK_SLASH" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift alt 5" />
     <keyboard-shortcut first-keystroke="control C" second-keystroke="R" />
