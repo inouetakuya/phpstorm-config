@@ -8,6 +8,10 @@
   <action id="$SelectAll">
     <keyboard-shortcut first-keystroke="control X" second-keystroke="H" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+    <keyboard-shortcut first-keystroke="control C" second-keystroke="B" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt SLASH" />
   </action>
@@ -49,6 +53,17 @@
     <keyboard-shortcut first-keystroke="F3" />
     <keyboard-shortcut first-keystroke="alt S" />
     <keyboard-shortcut first-keystroke="control S" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+    <keyboard-shortcut first-keystroke="control C" second-keystroke="F" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="control alt G" />
+    <keyboard-shortcut first-keystroke="ESCAPE" second-keystroke="PERIOD" />
+    <keyboard-shortcut first-keystroke="alt PERIOD" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="meta PERIOD" />
   </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="alt Y" />
