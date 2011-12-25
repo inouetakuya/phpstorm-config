@@ -5,6 +5,9 @@
     <keyboard-shortcut first-keystroke="shift alt MINUS" />
     <keyboard-shortcut first-keystroke="control BACK_SLASH" />
   </action>
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="H" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt SLASH" />
   </action>
@@ -14,6 +17,9 @@
   </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="control BACK_SLASH" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="H" />
   </action>
   <action id="EditorPageUp">
     <keyboard-shortcut first-keystroke="PAGE_UP" />
