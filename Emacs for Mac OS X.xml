@@ -104,6 +104,12 @@
     <keyboard-shortcut first-keystroke="F12" />
     <keyboard-shortcut first-keystroke="control X" second-keystroke="O" />
   </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="control X" second-keystroke="V" />
+  </action>
+  <action id="LocalHistory.ShowSelectionHistory">
+    <keyboard-shortcut first-keystroke="control C" second-keystroke="V" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="control T" />
   </action>
