@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
-  <component name="ChangeListManager" version="1349749930194" />
-  <component name="ChangesViewManager" version="1349749930195" />
-  <component name="CreatePatchCommitExecutor" version="1349749930211" />
-  <component name="DaemonCodeAnalyzer" version="1349749930211" />
-  <component name="Encoding" version="1349749930221" />
-  <component name="FavoritesManager" version="1349749930221" />
-  <component name="FileEditorManager" version="1349751182904" />
+  <component name="ChangeListManager" version="1349763291933" />
+  <component name="ChangesViewManager" version="1349763291934" />
+  <component name="CreatePatchCommitExecutor" version="1349763291936" />
+  <component name="DaemonCodeAnalyzer" version="1349763291936" />
+  <component name="Encoding" version="1349763291938" />
+  <component name="ExecutionTargetManager" version="1349763291938" />
+  <component name="FavoritesManager" version="1349763291938" />
+  <component name="FileEditorManager" version="1349763291941" />
   <component name="FindManager" version="1349749930223" />
   <component name="Git.Settings" version="1337911274272" />
-  <component name="IdeDocumentHistory" version="1349750667850" />
-  <component name="PhpWorkspaceProjectConfiguration" version="1349749962861" />
+  <component name="IdeDocumentHistory" version="1349763291943" />
+  <component name="PhpWorkspaceProjectConfiguration" version="1349763347669" />
   <component name="ProjectCodeStyleSettingsManager" version="1340591016989" />
-  <component name="ProjectFrameBounds" version="1349749930274" />
-  <component name="ProjectLevelVcsManager" version="1349749930274" />
-  <component name="ProjectModuleManager" version="1349749930274" />
-  <component name="ProjectReloadState" version="1349749930275" />
-  <component name="ProjectResources" version="1349749930275" />
-  <component name="ProjectRootManager" version="1349749930275" />
-  <component name="ProjectView" version="1349749930275" />
-  <component name="PropertiesComponent" version="1349751182908" />
-  <component name="RunManager" version="1349749930302" />
-  <component name="ShelveChangesManager" version="1349749930302" />
-  <component name="SvnBranchConfigurationManager" version="1349749930309" />
-  <component name="SvnConfiguration" version="1349749930310" />
-  <component name="SvnFileUrlMappingImpl" version="1349749930310" />
-  <component name="TaskManager" version="1349749930311" />
-  <component name="ToolWindowManager" version="1349750667853" />
-  <component name="VcsContentAnnotationSettings" version="1349749930312" />
-  <component name="VcsDirectoryMappings" version="1349749930312" />
-  <component name="VcsManagerConfiguration" version="1349749930312" />
-  <component name="XDebuggerManager" version="1349749930314" />
-  <component name="editorHistoryManager" version="1349751182913" />
+  <component name="ProjectFrameBounds" version="1349763291995" />
+  <component name="ProjectLevelVcsManager" version="1349763291995" />
+  <component name="ProjectModuleManager" version="1349763291995" />
+  <component name="ProjectReloadState" version="1349763291995" />
+  <component name="ProjectResources" version="1349763291996" />
+  <component name="ProjectRootManager" version="1349763291996" />
+  <component name="ProjectView" version="1349763291996" />
+  <component name="PropertiesComponent" version="1349763291997" />
+  <component name="RunManager" version="1349763292006" />
+  <component name="ShelveChangesManager" version="1349763292006" />
+  <component name="SvnBranchConfigurationManager" version="1349763292007" />
+  <component name="SvnConfiguration" version="1349763292007" />
+  <component name="SvnFileUrlMappingImpl" version="1349763292008" />
+  <component name="TaskManager" version="1349763292009" />
+  <component name="ToolWindowManager" version="1349763294992" />
+  <component name="VcsContentAnnotationSettings" version="1349763292011" />
+  <component name="VcsDirectoryMappings" version="1349763292011" />
+  <component name="VcsManagerConfiguration" version="1349763292011" />
+  <component name="XDebuggerManager" version="1349763292013" />
+  <component name="editorHistoryManager" version="1349763292016" />
 </versions>
 
