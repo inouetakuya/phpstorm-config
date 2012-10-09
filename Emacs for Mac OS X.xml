@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="Emacs for Mac OS X" parent="Emacs">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="alt C" />
+    <keyboard-shortcut first-keystroke="ESCAPE" second-keystroke="W" />
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift control Z" />
     <keyboard-shortcut first-keystroke="shift alt MINUS" />
@@ -32,6 +37,9 @@
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="shift control C" />
     <keyboard-shortcut first-keystroke="control meta U" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta W" />
   </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="control BACK_SLASH" />
