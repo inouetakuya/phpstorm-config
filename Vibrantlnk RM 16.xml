@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scheme name="Vibrantlnk from RubyMine" version="1" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+<scheme name="Vibrantlnk RM 16" version="1" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
     <option name="CARET_COLOR" value="ffffff" />
