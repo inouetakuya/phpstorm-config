@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="php-debug-extension-remote">
+      <project id="calamel.jp" values="xdebug" />
+      <project id="user_mobile_virtual" values="xdebug" />
+      <project id="inouetakuya" values="xdebug" />
+      <project id="mall_virtual" values="xdebug" />
+      <project id="inouetakuya2" values="xdebug" />
+      <project id="inouetakuya.calamel.jp" values="xdebug" />
+      <project id="inouetakuya3" values="xdebug" />
+      <project id="inouetakuya4" values="xdebug" />
+    </group>
+    <group name="vcs">
+      <project id="inouetakuya" values="svn" />
+      <project id="inouetakuya6" values="svn" />
+      <project id="inouetakuya7" values="svn" />
+      <project id="inouetakuya2" values="svn" />
+      <project id="inouetakuya3" values="svn" />
+      <project id="inouetakuya4" values="svn" />
+    </group>
+    <group name="php-version">
+      <project id="calamel.jp" values="not installed" />
+      <project id="user_mobile_virtual" values="not installed" />
+      <project id="inouetakuya" values="not installed" />
+      <project id="mall_virtual" values="not installed" />
+      <project id="inouetakuya2" values="not installed" />
+      <project id="inouetakuya.calamel.jp" values="not installed" />
+      <project id="inouetakuya3" values="not installed" />
+      <project id="inouetakuya4" values="not installed" />
+    </group>
+    <group name="module type">
+      <project id="calamel.jp" values="WEB_MODULE" />
+      <project id="user_mobile_virtual" values="WEB_MODULE" />
+      <project id="inouetakuya" values="WEB_MODULE" />
+      <project id="inouetakuya6" values="WEB_MODULE" />
+      <project id="inouetakuya7" values="WEB_MODULE" />
+      <project id="mall_virtual" values="WEB_MODULE" />
+      <project id="inouetakuya2" values="WEB_MODULE" />
+      <project id="inouetakuya3" values="WEB_MODULE" />
+      <project id="inouetakuya4" values="WEB_MODULE" />
+    </group>
+    <group name="file-type">
+      <project id="inouetakuya" values="XML,UNKNOWN,PLAIN_TEXT,PHP" />
+      <project id="inouetakuya6" values="JSON,CSS,Images,PLAIN_TEXT,HTML,Smarty,JavaScript,SmartyConfig,XML,PHP,UNKNOWN,ARCHIVE" />
+      <project id="inouetakuya7" values="PLAIN_TEXT,XML,SmartyConfig,UNKNOWN,CSS,JSON,HTML,Smarty,JavaScript,PHP,ARCHIVE,Images" />
+      <project id="batch_calamel_virtual" values="UNKNOWN" />
+      <project id="inouetakuya2" values="ARCHIVE,JavaScript,XML,SmartyConfig,HTML,Smarty,PLAIN_TEXT,PHP,CSS,UNKNOWN,Images,JSON" />
+      <project id="inouetakuya3" values="PHP,PLAIN_TEXT,Images,Smarty,UNKNOWN,CSS,JSON,XML,HTML,JavaScript,SmartyConfig,ARCHIVE" />
+      <project id="inouetakuya4" values="JavaScript,HTML,JSON,PHP,XML,Images,Smarty,PLAIN_TEXT,SmartyConfig,UNKNOWN,ARCHIVE,CSS" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="inouetakuya" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="inouetakuya2" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+    </group>
+    <group name="php-interpreters">
+      <project id="inouetakuya" values="0" />
+      <project id="inouetakuya6" values="0" />
+      <project id="inouetakuya7" values="0" />
+      <project id="inouetakuya2" values="0" />
+      <project id="inouetakuya3" values="0" />
+      <project id="inouetakuya4" values="0" />
+    </group>
+    <group name="run-configuration-type-temporary">
+      <project id="calamel.jp" values="PhpLocalRunConfigurationType" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="inouetakuya" values="not installed" />
+      <project id="inouetakuya6" values="not installed" />
+      <project id="inouetakuya7" values="not installed" />
+      <project id="inouetakuya2" values="not installed" />
+      <project id="inouetakuya3" values="not installed" />
+      <project id="inouetakuya4" values="not installed" />
+    </group>
+    <group name="php-servers">
+      <project id="calamel.jp" values="0" />
+      <project id="user_mobile_virtual" values="0" />
+      <project id="inouetakuya" values="0" />
+      <project id="inouetakuya6" values="0" />
+      <project id="inouetakuya7" values="0" />
+      <project id="mall_virtual" values="0" />
+      <project id="batch_calamel_virtual" values="0" />
+      <project id="inouetakuya2" values="0" />
+      <project id="inouetakuya.calamel.jp" values="0" />
+      <project id="inouetakuya3" values="0" />
+      <project id="inouetakuya4" values="0" />
+    </group>
+    <group name="php-include-path">
+      <project id="calamel.jp" values="0" />
+      <project id="user_mobile_virtual" values="0" />
+      <project id="inouetakuya" values="0" />
+      <project id="inouetakuya6" values="0" />
+      <project id="inouetakuya7" values="0" />
+      <project id="mall_virtual" values="0" />
+      <project id="batch_calamel_virtual" values="0" />
+      <project id="inouetakuya2" values="0" />
+      <project id="inouetakuya.calamel.jp" values="0" />
+      <project id="inouetakuya3" values="0" />
+      <project id="inouetakuya4" values="0" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="inouetakuya" values="0" />
+      <project id="inouetakuya6" values="0" />
+      <project id="inouetakuya7" values="0" />
+      <project id="inouetakuya2" values="0" />
+      <project id="inouetakuya3" values="0" />
+      <project id="inouetakuya4" values="0" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="inouetakuya" values="DEFAULT" />
+      <project id="inouetakuya2" values="DEFAULT" />
+    </group>
+  </component>
+</application>
+

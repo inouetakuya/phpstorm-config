@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
+    <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="PHPUnit Generate Actions" />
+    <notification groupId="PHPUnit" displayType="TOOL_WINDOW" />
+    <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
+    <notification groupId="Upgrade Subscription Renewal" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
+    <notification groupId="IDE Fatal Errors" displayType="NONE" />
+    <notification groupId="Notification group display Id" />
+    <notification groupId="Git Important Errors" displayType="STICKY_BALLOON" />
+    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" />
+    <notification groupId="Indexing" />
+    <notification groupId="Reformat Code" />
+    <notification groupId="System Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Subversion" displayType="STICKY_BALLOON" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <toolWindow group="Git Messages" />
+    <toolWindow group="External Executable Critical Failures" />
+    <toolWindow group="PHPUnit" />
+    <toolWindow group="PHP Debugger" />
+    <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="FindInPath" />
+  </component>
+</application>
+
