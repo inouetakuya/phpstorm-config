@@ -1,101 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DimensionService">
-    <location key="OptionsEditor.0.22.1860.1178" x="431" y="258" />
-    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1868.1178" x="98" y="122" />
-    <location key="findTextDialog.0.22.1860.1178" x="280" y="394" />
-    <location key="StructurePopup.0.22.1871.1178" x="765" y="379" />
+    <location key="FileChooserDialogImpl.1920.-476.1200.1920" x="0" y="725" />
     <location key="svn.passwordDialog.0.22.1867.1178" x="725" y="510" />
     <location key="findTextDialog.0.22.1873.1178" x="730" y="381" />
-    <location key="#EventFactory.php.0.22.1860.1178" x="760" y="383" />
     <location key="CommitChangelistDialog.0.22.1868.1178" x="560" y="355" />
-    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.-1344.216.1344.840" x="-930" y="348" />
-    <location key="NotificationsPopup" x="744" y="431" />
     <location key="OptionsEditor.0.22.1873.1178" x="324" y="189" />
-    <location key="#com.intellij.fileTypes.FileTypeChooser.0.22.1870.1178" x="631" y="418" />
-    <location key="OptionsEditor.0.22.1920.1178" x="456" y="99" />
     <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1871.1178" x="708" y="338" />
-    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1860.1178" x="100" y="122" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.22.1870.1178" x="631" y="418" />
+    <location key="findTextDialog.-1301.216.1301.840" x="-857" y="400" />
     <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1870.1178" x="100" y="122" />
-    <location key="OptionsEditor.0.22.1861.1178" x="0" y="33" />
-    <location key="findTextDialog.0.22.1871.1178" x="728" y="381" />
-    <location key="CommitChangelistDialog.0.22.1870.1178" x="585" y="311" />
-    <location key="findTextDialog.0.22.1870.1178" x="686" y="499" />
     <location key="OptionsEditor.0.22.1872.1178" x="324" y="189" />
+    <location key="findTextDialog.0.22.1870.1178" x="686" y="499" />
     <location key="findTextDialog.0.22.1872.1178" x="730" y="381" />
-    <location key="FileChooserDialogImpl.0.22.1869.1178" x="154" y="51" />
-    <location key="OptionsEditor.0.22.1859.1178" x="632" y="244" />
     <location key="OptionsEditor.0.22.1866.1178" x="323" y="189" />
-    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1861.1178" x="100" y="122" />
+    <location key="OptionsEditor.0.22.1859.1178" x="632" y="244" />
     <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1868.1178" x="707" y="338" />
-    <location key="CommitChangelistDialog.0.22.1869.1178" x="585" y="311" />
     <location key="com.intellij.history.integration.ui.views.RecentChangeDialog.0.22.1869.1178" x="100" y="122" />
     <location key="FileChooserDialogImpl.0.22.1868.1178" x="725" y="373" />
     <location key="FileChooserDialogImpl.0.22.1865.1178" x="724" y="354" />
     <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.22.1868.1178" x="677" y="323" />
-    <location key="FileChooserDialogImpl" x="677" y="456" />
-    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.22.1871.1178" x="685" y="447" />
     <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1864.1178" x="100" y="122" />
     <location key="findTextDialog.-1344.216.1344.840" x="-1012" y="419" />
     <location key="OptionsEditor.0.22.1868.1178" x="327" y="189" />
-    <location key="FileChooserDialogImpl.0.22.1872.1178" x="1400" y="593" />
-    <location key="OptionsEditor.0.22.1867.1178" x="327" y="189" />
     <location key="findTextDialog.0.22.1868.1178" x="304" y="510" />
-    <location key="FileChooserDialogImpl.0.22.1859.1178" x="373" y="351" />
-    <location key="CommitChangelistDialog.0.22.1872.1178" x="586" y="311" />
-    <location key="FileChooserDialogImpl.0.22.1866.1178" x="724" y="373" />
-    <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1872.1178" x="709" y="338" />
-    <location key="FileChooserDialogImpl.0.22.1920.1178" x="243" y="159" />
-    <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1870.1178" x="708" y="338" />
+    <location key="FileChooserDialogImpl.0.22.1872.1178" x="1400" y="593" />
     <location key="FileChooserDialogImpl.0.22.1871.1178" x="722" y="373" />
+    <location key="replaceTextDialog.0.22.1868.1178" x="726" y="377" />
+    <location key="com.intellij.history.integration.ui.views.RecentChangeDialog.0.22.1863.1178" x="100" y="122" />
+    <location key="OptionsEditor.0.22.1869.1178" x="223" y="158" />
+    <location key="findTextDialog.0.22.1867.1178" x="632" y="394" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.-1344.216.1344.840" x="-899" y="363" />
+    <location key="replaceTextDialog.0.22.1869.1178" x="1010" y="659" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.22.1870.1178" x="684" y="463" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.22.1870.1178" x="473" y="468" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.22.1869.1178" x="685" y="463" />
+    <location key="FileChooserDialogImpl.0.22.1873.1178" x="724" y="373" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.22.1869.1178" x="487" y="468" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1869.1178" x="707" y="338" />
+    <location key="OptionsEditor.0.22.1864.1178" x="323" y="189" />
+    <location key="findTextDialog.0.22.1861.1178" x="337" y="238" />
+    <location key="CommitChangelistDialog.0.22.1861.1178" x="556" y="355" />
+    <location key="replaceTextDialog.0.22.1870.1178" x="726" y="377" />
+    <location key="findTextDialog.0.22.1920.1178" x="754" y="375" />
+    <location key="FileChooserDialogImpl.0.22.1870.1178" x="76" y="484" />
+    <location key="findTextDialog.0.22.1864.1178" x="627" y="394" />
+    <location key="OptionsEditor.0.22.1860.1178" x="431" y="258" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1868.1178" x="98" y="122" />
+    <location key="findTextDialog.0.22.1860.1178" x="280" y="394" />
+    <location key="StructurePopup.0.22.1871.1178" x="765" y="379" />
+    <location key="#EventFactory.php.0.22.1860.1178" x="760" y="383" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.-1344.216.1344.840" x="-930" y="348" />
+    <location key="NotificationsPopup" x="744" y="431" />
+    <location key="OptionsEditor.0.22.1920.1178" x="456" y="99" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1860.1178" x="100" y="122" />
+    <location key="OptionsEditor.0.22.1861.1178" x="0" y="33" />
+    <location key="findTextDialog.0.22.1871.1178" x="728" y="381" />
+    <location key="CommitChangelistDialog.0.22.1870.1178" x="585" y="311" />
+    <location key="FileChooserDialogImpl.0.22.1869.1178" x="154" y="51" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1861.1178" x="100" y="122" />
+    <location key="CommitChangelistDialog.0.22.1869.1178" x="585" y="311" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.22.1920.1178" x="798" y="215" />
+    <location key="FileChooserDialogImpl" x="677" y="456" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.22.1871.1178" x="685" y="447" />
+    <location key="FileChooserDialogImpl.0.22.1859.1178" x="373" y="351" />
+    <location key="OptionsEditor.0.22.1867.1178" x="327" y="189" />
+    <location key="FileChooserDialogImpl.0.22.1866.1178" x="724" y="373" />
+    <location key="CommitChangelistDialog.0.22.1872.1178" x="586" y="311" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1872.1178" x="709" y="338" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1870.1178" x="708" y="338" />
+    <location key="FileChooserDialogImpl.0.22.1920.1178" x="493" y="223" />
     <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1867.1178" x="706" y="338" />
     <location key="findTextDialog.0.22.1300.818" x="315" y="214" />
     <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.22.1870.1178" x="706" y="243" />
     <location key="OptionsEditor" x="322" y="189" />
     <location key="StructurePopup.0.22.1920.1178" x="811" y="380" />
-    <location key="replaceTextDialog.0.22.1868.1178" x="726" y="377" />
     <location key="findTextDialog.0.22.1865.1178" x="627" y="394" />
-    <location key="com.intellij.history.integration.ui.views.RecentChangeDialog.0.22.1863.1178" x="100" y="122" />
     <location key="#PHP.0.22.1870.1178" x="697" y="307" />
     <location key="StructurePopup.-1344.216.1344.840" x="-842" y="404" />
-    <location key="OptionsEditor.0.22.1869.1178" x="223" y="158" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.22.1868.1178" x="684" y="463" />
-    <location key="findTextDialog.0.22.1867.1178" x="632" y="394" />
     <location key="FileChooserDialogImpl.0.22.1867.1178" x="866" y="595" />
     <location key="findTextDialog.0.22.1869.1178" x="566" y="473" />
-    <location key="#com.intellij.ide.util.FileStructureDialog.-1344.216.1344.840" x="-899" y="363" />
-    <location key="replaceTextDialog.0.22.1869.1178" x="1010" y="659" />
-    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.22.1870.1178" x="473" y="468" />
-    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.22.1870.1178" x="684" y="463" />
     <location key="StructurePopup.0.22.1869.1178" x="764" y="379" />
-    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.22.1869.1178" x="685" y="463" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.22.1861.1178" x="658" y="418" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.-1344.216.1344.840" x="-922" y="486" />
-    <location key="FileChooserDialogImpl.0.22.1873.1178" x="724" y="373" />
-    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.22.1869.1178" x="487" y="468" />
-    <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1869.1178" x="707" y="338" />
+    <location key="FileChooserDialogImpl.-1301.216.1301.840" x="-863" y="398" />
     <location key="findTextDialog.0.22.1866.1178" x="630" y="394" />
     <location key="OptionsEditor.0.22.1871.1178" x="322" y="189" />
-    <location key="OptionsEditor.0.22.1864.1178" x="323" y="189" />
-    <location key="findTextDialog.0.22.1861.1178" x="337" y="238" />
     <location key="StructurePopup.0.22.1868.1178" x="764" y="379" />
     <location key="StructurePopup.0.22.1870.1178" x="764" y="379" />
     <location key="OptionsEditor.0.22.1870.1178" x="460" y="281" />
     <location key="OptionsEditor.0.22.1863.1178" x="325" y="189" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.22.1865.1178" x="-647" y="512" />
-    <location key="CommitChangelistDialog.0.22.1861.1178" x="556" y="355" />
     <location key="#index.php.0.22.1860.1178" x="760" y="383" />
     <location key="CommitChangelistDialog.0.22.1871.1178" x="585" y="311" />
     <location key="FileChooserDialogImpl.0.22.1861.1178" x="722" y="331" />
-    <location key="replaceTextDialog.0.22.1870.1178" x="726" y="377" />
     <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1863.1178" x="100" y="122" />
     <location key="FileChooserDialogImpl.-1344.216.1344.840" x="181" y="397" />
-    <location key="findTextDialog.0.22.1920.1178" x="754" y="375" />
     <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.22.1869.1178" x="676" y="323" />
     <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1871.1178" x="100" y="122" />
-    <location key="FileChooserDialogImpl.0.22.1870.1178" x="76" y="484" />
     <location key="findTextDialog.0.22.1863.1178" x="630" y="394" />
-    <location key="findTextDialog.0.22.1864.1178" x="627" y="394" />
     <size key="OptionsEditor.0.22.1859.1178" width="1162" height="736" />
     <size key="OptionsEditor.0.22.1860.1178" width="1344" height="840" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.22.1861.1178" width="1661" height="978" />

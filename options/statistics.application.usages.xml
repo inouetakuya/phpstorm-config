@@ -39,19 +39,23 @@
       <project id="inouetakuya2" values="WEB_MODULE" />
       <project id="inouetakuya3" values="WEB_MODULE" />
       <project id="inouetakuya4" values="WEB_MODULE" />
+      <project id="batch001.calamel.jp" values="WEB_MODULE" />
     </group>
     <group name="file-type">
-      <project id="inouetakuya6" values="PLAIN_TEXT,CSS,Images,UNKNOWN,PHP,XML,ARCHIVE,SmartyConfig,Smarty,JSON,JavaScript,HTML" />
-      <project id="inouetakuya" values="XML,PLAIN_TEXT,UNKNOWN,PHP" />
-      <project id="inouetakuya7" values="UNKNOWN,HTML,ARCHIVE,PLAIN_TEXT,JavaScript,SmartyConfig,Images,Smarty,CSS,PHP,JSON,XML" />
+      <project id="inouetakuya6" values="ARCHIVE,XML,SmartyConfig,JSON,JavaScript,CSS,Images,PLAIN_TEXT,HTML,UNKNOWN,PHP,Smarty" />
+      <project id="inouetakuya" values="Images,JavaScript,PLAIN_TEXT,UNKNOWN,XML,HTML,PHP,Smarty,CSS,htaccess" />
+      <project id="inouetakuya7" values="ARCHIVE,PHP,Smarty,SmartyConfig,PLAIN_TEXT,CSS,JavaScript,UNKNOWN,JSON,HTML,XML,Images" />
       <project id="batch_calamel_virtual" values="UNKNOWN" />
-      <project id="inouetakuya2" values="PHP,SmartyConfig,HTML,CSS,Images,PLAIN_TEXT,Smarty,UNKNOWN,JavaScript,ARCHIVE,JSON,XML" />
-      <project id="inouetakuya3" values="JSON,CSS,HTML,JavaScript,SmartyConfig,PLAIN_TEXT,PHP,Images,ARCHIVE,UNKNOWN,Smarty,XML" />
-      <project id="inouetakuya4" values="CSS,ARCHIVE,UNKNOWN,Smarty,JavaScript,Images,JSON,PLAIN_TEXT,PHP,SmartyConfig,XML,HTML" />
+      <project id="inouetakuya2" values="CSS,Images,PHP,PLAIN_TEXT,UNKNOWN,XML,HTML,ARCHIVE,JavaScript,JSON,Smarty" />
+      <project id="inouetakuya3" values="UNKNOWN,Smarty,Images,XML,HTML,CSS,ARCHIVE,JSON,JavaScript,PHP,PLAIN_TEXT" />
+      <project id="inouetakuya4" values="HTML,JSON,ARCHIVE,XML,UNKNOWN,CSS,Images,Smarty,PLAIN_TEXT,SmartyConfig,PHP,JavaScript" />
+      <project id="batch001.calamel.jp" values="XML,UNKNOWN" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="inouetakuya" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
-      <project id="inouetakuya2" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="inouetakuya2" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="inouetakuya3" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="batch001.calamel.jp" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
     </group>
     <group name="php-interpreters">
       <project id="inouetakuya6" values="0" />
@@ -60,6 +64,7 @@
       <project id="inouetakuya2" values="0" />
       <project id="inouetakuya3" values="0" />
       <project id="inouetakuya4" values="0" />
+      <project id="batch001.calamel.jp" values="0" />
     </group>
     <group name="run-configuration-type-temporary">
       <project id="calamel.jp" values="PhpLocalRunConfigurationType" />
@@ -71,6 +76,7 @@
       <project id="inouetakuya2" values="not installed" />
       <project id="inouetakuya3" values="not installed" />
       <project id="inouetakuya4" values="not installed" />
+      <project id="batch001.calamel.jp" values="not installed" />
     </group>
     <group name="php-servers">
       <project id="user_mobile_virtual" values="0" />
@@ -84,6 +90,7 @@
       <project id="inouetakuya2" values="0" />
       <project id="inouetakuya3" values="0" />
       <project id="inouetakuya4" values="0" />
+      <project id="batch001.calamel.jp" values="0" />
     </group>
     <group name="php-include-path">
       <project id="user_mobile_virtual" values="0" />
@@ -97,10 +104,7 @@
       <project id="inouetakuya2" values="0" />
       <project id="inouetakuya3" values="0" />
       <project id="inouetakuya4" values="0" />
-    </group>
-    <group name="JavaScript versions">
-      <project id="inouetakuya" values="DEFAULT" />
-      <project id="inouetakuya2" values="DEFAULT" />
+      <project id="batch001.calamel.jp" values="0" />
     </group>
     <group name="php-debug-skipped-paths">
       <project id="inouetakuya6" values="0" />
@@ -109,6 +113,13 @@
       <project id="inouetakuya2" values="0" />
       <project id="inouetakuya3" values="0" />
       <project id="inouetakuya4" values="0" />
+      <project id="batch001.calamel.jp" values="0" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="inouetakuya" values="DEFAULT" />
+      <project id="inouetakuya2" values="DEFAULT" />
+      <project id="inouetakuya3" values="DEFAULT" />
+      <project id="batch001.calamel.jp" values="DEFAULT" />
     </group>
   </component>
 </application>
