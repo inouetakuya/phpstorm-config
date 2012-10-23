@@ -1,4 +1,5 @@
 componentVersions/
+tasks/
 
 # Ignore unneeded files created by MacOS
 .DS_Store
