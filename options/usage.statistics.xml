@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="UsagesStatistic" time="1353483310840" allowed="true" show-notification="false" period="weekly">
+    <group id="JavaScript versions" priority="0.0" data="DEFAULT=7" />
+    <group id="Look and Feel" priority="0.0" data="Mac OS X - Mac OS X=1" />
+    <group id="file-type" priority="0.0" data="JavaScript=9,XML=10,SmartyConfig=3,PHP=9,Smarty=9,JSON=6,HTML=9,Images=9,PLAIN_TEXT=9,UNKNOWN=11,CSS=9,ARCHIVE=5,YAML=2,htaccess=2,Native=0,C++=0,Perl=0" />
+    <group id="javaScript Scope Usages" priority="0.0" data="Project=70" />
+    <group id="module type" priority="0.0" data="WEB_MODULE=12" />
+    <group id="non-bundled-plugins" priority="0.0" data="com.intellij=1" />
+    <group id="php-debug-skipped-paths" priority="0.0" data="0=10" />
+    <group id="php-include-path" priority="0.0" data="0=14" />
+    <group id="php-interpreter-version" priority="0.0" data="not installed=10" />
+    <group id="php-interpreters" priority="0.0" data="0=10" />
+    <group id="php-servers" priority="0.0" data="0=14" />
+    <group id="productivity" priority="0.0" data="editing.select.word=47,editing.completion.basic=2310,navigation.popup.file.structure=247,navigation.goto.declaration=2818,codeassists.comment.block=3,editing.completion.camelHumps=45,codeassists.comment.line=742,find.recent.search=19,editing.completion.replace=21,ui.tree.speedsearch=208,navigation.recent.files=180,editing.completion.finishByDotEtc=47,codeassists.quickjavadoc=1,refactoring.rename=20,navigation.popup.action=1" />
+    <group id="run-configuration-type-temporary" priority="0.0" data="PhpLocalRunConfigurationType=1" />
+    <group id="vcs" priority="0.0" data="svn=9" />
+  </component>
+</application>
+

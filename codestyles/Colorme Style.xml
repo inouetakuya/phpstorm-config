@@ -15,11 +15,6 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="CSS">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="0" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="CoffeeScript">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
