@@ -11,7 +11,7 @@ options/other.xml
 options/project.default.xml
 options/statistics.application.usages.xml
 options/stubIndex.xml
-options/usage.statistics.xml 
+options/usage.statistics.xml
 options/window.manager.xml
 
 # Ignore unneeded files created by MacOS
