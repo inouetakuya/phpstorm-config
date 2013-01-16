@@ -24,3 +24,6 @@ options/window.manager.xml
 .idea
 .project
 
+# Ignore key files
+phpstorm*.key
+
