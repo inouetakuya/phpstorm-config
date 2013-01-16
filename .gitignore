@@ -1,18 +1,6 @@
 componentVersions/
 tasks/
-
-options/appComponentVersions.xml
-options/browsers.xml
-options/code.style.schemes.xml
-options/feature.usage.statistics.xml
-options/notifications.xml
-options/options.xml
-options/other.xml
-options/project.default.xml
-options/statistics.application.usages.xml
-options/stubIndex.xml
-options/usage.statistics.xml
-options/window.manager.xml
+options/
 
 port
 phpstorm*.key
