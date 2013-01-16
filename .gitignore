@@ -14,6 +14,9 @@ options/stubIndex.xml
 options/usage.statistics.xml
 options/window.manager.xml
 
+port
+phpstorm*.key
+
 # Ignore unneeded files created by MacOS
 .DS_Store
 
@@ -23,7 +26,4 @@ options/window.manager.xml
 # Ignore temporary files created by IDE
 .idea
 .project
-
-# Ignore key files
-phpstorm*.key
 
