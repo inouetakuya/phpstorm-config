@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<keymap version="1" name="Emacs for Mac OS X" parent="Emacs">
+<keymap version="1" name="EmacsForMacOSX" parent="Emacs">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="alt C" />
     <keyboard-shortcut first-keystroke="ESCAPE" second-keystroke="W" />
