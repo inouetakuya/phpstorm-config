@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="WebBrowsersConfiguration">
+    <browser family="CHROME" path="Google Chrome" active="true" />
+  </component>
+</application>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="cmsp-secure" values="Git" />
+    </group>
+    <group name="php-interpreters">
+      <project id="cmsp-secure" values="0" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="cmsp-secure" values="not installed" />
+    </group>
+    <group name="module type">
+      <project id="cmsp-secure" values="WEB_MODULE" />
+    </group>
+    <group name="php-servers">
+      <project id="cmsp-secure" values="0" />
+    </group>
+    <group name="php-include-path">
+      <project id="cmsp-secure" values="0" />
+    </group>
+    <group name="file-type">
+      <project id="cmsp-secure" values="DTD,XML,CSS,UNKNOWN,Images,JavaScript,htaccess,Smarty,HTML,SmartyConfig,PLAIN_TEXT,PHP" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="cmsp-secure" values="0" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="cmsp-secure" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="cmsp-secure" values="DEFAULT" />
+    </group>
+  </component>
+</application>
+

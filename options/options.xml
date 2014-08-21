@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl" x="1799" y="-58" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.apple.laf.AquaLookAndFeel" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="installation.uid" value="ab400808-a67e-450a-b9ca-e0ade7b27415" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+  </component>
+</application>
+
