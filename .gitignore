@@ -1,0 +1,17 @@
+componentVersions/
+tasks/
+options/
+
+port
+phpstorm*.key
+
+# Ignore unneeded files created by MacOS
+.DS_Store
+
+# Ignore temporary files created by Emacs
+*~
+
+# Ignore temporary files created by IDE
+.idea
+.project
+
