@@ -3,52 +3,136 @@
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
+  <component name="FindSettings">
+    <option name="SEARCH_OVERLOADED_METHODS" value="false" />
+    <option name="SEARCH_IN_LIBRARIES" value="false" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="false" />
+    <option name="FIND_DIRECTION" value="forward" />
+    <option name="FIND_ORIGIN" value="from_cursor" />
+    <option name="FIND_SCOPE" value="global" />
+    <option name="FIND_CUSTOM_SCOPE" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="PRESERVE_CASE_REPLACE" value="false" />
+    <option name="WHOLE_WORDS_ONLY" value="false" />
+    <option name="COMMENTS_ONLY" value="false" />
+    <option name="STRING_LITERALS_ONLY" value="false" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
+    <option name="REGULAR_EXPRESSIONS" value="false" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
+    <option name="WITH_SUBDIRECTORIES" value="true" />
+    <option name="SEARCH_SCOPE" value="All Project Classes" />
+    <option name="FILE_MASK" />
+    <option name="RECENT_FIND_STRINGS">
+      <value>
+        <list size="20">
+          <item index="0" class="java.lang.String" itemvalue="クーポン" />
+          <item index="1" class="java.lang.String" itemvalue="coupon" />
+          <item index="2" class="java.lang.String" itemvalue="shopcoupon" />
+          <item index="3" class="java.lang.String" itemvalue="ショップクーポン" />
+          <item index="4" class="java.lang.String" itemvalue="t_pro_shopcoupon" />
+          <item index="5" class="java.lang.String" itemvalue="ShopCoupon" />
+          <item index="6" class="java.lang.String" itemvalue="applyShopcoupon" />
+          <item index="7" class="java.lang.String" itemvalue="sales_lst" />
+          <item index="8" class="java.lang.String" itemvalue="wGet" />
+          <item index="9" class="java.lang.String" itemvalue="jf" />
+          <item index="10" class="java.lang.String" itemvalue="wgetpon" />
+          <item index="11" class="java.lang.String" itemvalue="wget" />
+          <item index="12" class="java.lang.String" itemvalue="wgetpoint" />
+          <item index="13" class="java.lang.String" itemvalue="exit_flg" />
+          <item index="14" class="java.lang.String" itemvalue="cxl" />
+          <item index="15" class="java.lang.String" itemvalue="gSV_get_point_flg" />
+          <item index="16" class="java.lang.String" itemvalue="get_points" />
+          <item index="17" class="java.lang.String" itemvalue="GENREID_GETPNTFLG" />
+          <item index="18" class="java.lang.String" itemvalue="確定された" />
+          <item index="19" class="java.lang.String" itemvalue="get_point_flg" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_REPLACE_STRINGS">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="RECENT_DIR_STRINGS">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/Projects/colorme/cmsp-admin/tests" />
+          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/Projects/colorme/cmsp-secure/app/models" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_FILE_MASKS">
+      <value>
+        <list size="10">
+          <item index="0" class="java.lang.String" itemvalue="*.properties" />
+          <item index="1" class="java.lang.String" itemvalue="*.html" />
+          <item index="2" class="java.lang.String" itemvalue="*.jsp" />
+          <item index="3" class="java.lang.String" itemvalue="*.xml" />
+          <item index="4" class="java.lang.String" itemvalue="*.java" />
+          <item index="5" class="java.lang.String" itemvalue="*.js" />
+          <item index="6" class="java.lang.String" itemvalue="*.as" />
+          <item index="7" class="java.lang.String" itemvalue="*.css" />
+          <item index="8" class="java.lang.String" itemvalue="*.mxml" />
+          <item index="9" class="java.lang.String" itemvalue="*.php" />
+        </list>
+      </value>
+    </option>
+  </component>
   <component name="HttpConfigurable">
+    <option name="PROXY_TYPE_IS_SOCKS" value="false" />
     <option name="USE_HTTP_PROXY" value="false" />
+    <option name="USE_PROXY_PAC" value="false" />
     <option name="PROXY_HOST" value="" />
     <option name="PROXY_PORT" value="80" />
     <option name="PROXY_AUTHENTICATION" value="false" />
     <option name="PROXY_LOGIN" value="" />
     <option name="PROXY_PASSWORD_CRYPT" value="" />
     <option name="KEEP_PROXY_PASSWORD" value="false" />
+    <option name="myGenericPasswords">
+      <map />
+    </option>
+    <option name="myGenericCancelled">
+      <set />
+    </option>
+    <option name="PROXY_EXCEPTIONS" value="" />
   </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/Projects/colorme/cmsp-admin" />
         <option value="$USER_HOME$/Projects/colorme/cmsp-secure" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/Projects/colorme/cmsp-secure" />
+        <option value="$USER_HOME$/Projects/colorme/cmsp-admin" />
       </list>
     </option>
     <option name="names">
       <map>
+        <entry key="$USER_HOME$/Projects/colorme/cmsp-admin" value="" />
         <entry key="$USER_HOME$/Projects/colorme/cmsp-secure" value="" />
       </map>
     </option>
-    <option name="lastPath" value="$USER_HOME$/Projects/colorme/cmsp-secure" />
+    <option name="lastPath" value="$USER_HOME$/Projects/colorme/cmsp-admin" />
   </component>
   <component name="Registry">
     <entry key="ide.firstStartup" value="false" />
   </component>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="TAB" />
+  </component>
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="ff" />
-      <option name="BACKGROUND" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="EFFECT_COLOR" />
-      <option name="EFFECT_TYPE" value="0" />
-      <option name="ERROR_STRIPE_COLOR" value="ff" />
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
     </pattern>
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="ff" />
-      <option name="BACKGROUND" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="EFFECT_COLOR" />
-      <option name="EFFECT_TYPE" value="0" />
-      <option name="ERROR_STRIPE_COLOR" value="ff" />
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
     </pattern>
   </component>
   <component name="UpdatesConfigurable">
@@ -59,14 +143,15 @@
     </option>
     <option name="myKnownUpdateChannels">
       <value>
-        <list size="7">
+        <list size="8">
           <item index="0" class="java.lang.String" itemvalue="WI1" />
           <item index="1" class="java.lang.String" itemvalue="WI2" />
           <item index="2" class="java.lang.String" itemvalue="WI3" />
           <item index="3" class="java.lang.String" itemvalue="WI4" />
           <item index="4" class="java.lang.String" itemvalue="WI5" />
           <item index="5" class="java.lang.String" itemvalue="WI6" />
-          <item index="6" class="java.lang.String" itemvalue="EAP" />
+          <item index="6" class="java.lang.String" itemvalue="WI7" />
+          <item index="7" class="java.lang.String" itemvalue="EAP" />
         </list>
       </value>
     </option>
@@ -76,9 +161,19 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1408598236103" />
-    <option name="LAST_BUILD_CHECKED" value="PS-121.390" />
+    <option name="LAST_TIME_CHECKED" value="1409039451938" />
+    <option name="LAST_BUILD_CHECKED" value="PS-133.1777" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
+  </component>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="SHOW_IN_TOOLBAR" value="true" />
@@ -92,22 +187,14 @@
     <option name="MATCH_RECURSIVELY" value="false" />
     <option name="attributes">
       <value>
-        <option name="FOREGROUND" />
         <option name="BACKGROUND" value="ffd578" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="-1" />
-        <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
     <option name="contextAttributes">
       <value>
-        <option name="FOREGROUND" />
         <option name="BACKGROUND" value="c2ffd4" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="-1" />
-        <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
     <option name="scrollToFirst" value="true" />
@@ -128,23 +215,16 @@
     </recent_templates>
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
-    <default-html-doctype>$APPLICATION_HOME_DIR$/lib/webide.jar!/resources/html5-schema/html5.rnc</default-html-doctype>
-  </component>
-  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl">
-    <enableFiles value="false" />
-    <enableFolders value="false" />
-    <filesTool value="" newValue="" />
-    <foldersTool value="" newValue="" />
   </component>
 </application>
 

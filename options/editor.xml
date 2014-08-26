@@ -9,10 +9,13 @@
     <option name="IS_CARET_INSIDE_TABS" value="false" />
     <option name="STRIP_TRAILING_SPACES" value="Changed" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="false" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="500" />
+    <option name="SHOW_INTENTION_BULB" value="true" />
     <option name="IS_CARET_BLINKING" value="true" />
     <option name="CARET_BLINKING_PERIOD" value="500" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="true" />
-    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="true" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="true" />
     <option name="SMART_HOME" value="true" />
     <option name="IS_BLOCK_CURSOR" value="false" />

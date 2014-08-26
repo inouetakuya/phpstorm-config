@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DimensionService">
+    <location key="WELCOME_SCREEN.1280.-400.1920.1200" x="639" y="300" />
+    <location key="OptionsEditor.1280.-378.1920.1178" x="1628" y="-211" />
+    <location key="StructurePopup.1280.-378.1920.1178" x="2091" y="-20" />
     <location key="FileChooserDialogImpl" x="1799" y="-58" />
+    <location key="FileChooserDialogImpl.1280.-378.1920.1178" x="2028" y="-27" />
+    <location key="findTextDialog.1280.-378.1920.1178" x="2034" y="-25" />
+    <size key="StructurePopup" width="360" height="440" />
   </component>
   <component name="LafManager">
-    <laf class-name="com.apple.laf.AquaLookAndFeel" />
+    <laf class-name="idea.dark.laf.classname" />
   </component>
   <component name="PropertiesComponent">
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="Non-Project Files" value="Yellow" />
     <property name="installation.uid" value="ab400808-a67e-450a-b9ca-e0ade7b27415" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="Tests" value="Green" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="LayoutCode.optimizeImports" value="false" />
     <property name="file.colors.enable.tests" value="Green" />
     <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.7" value="14" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
   </component>
 </application>
 

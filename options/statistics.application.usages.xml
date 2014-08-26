@@ -2,34 +2,44 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="vcs">
+      <project id="cmsp-admin" values="Git" />
       <project id="cmsp-secure" values="Git" />
     </group>
     <group name="php-interpreters">
+      <project id="cmsp-admin" values="0" />
       <project id="cmsp-secure" values="0" />
     </group>
     <group name="php-interpreter-version">
+      <project id="cmsp-admin" values="not installed" />
       <project id="cmsp-secure" values="not installed" />
     </group>
     <group name="module type">
+      <project id="cmsp-admin" values="RUBY_MODULE" />
       <project id="cmsp-secure" values="WEB_MODULE" />
     </group>
     <group name="php-servers">
+      <project id="cmsp-admin" values="0" />
       <project id="cmsp-secure" values="0" />
     </group>
     <group name="php-include-path">
+      <project id="cmsp-admin" values="0" />
       <project id="cmsp-secure" values="0" />
     </group>
     <group name="file-type">
-      <project id="cmsp-secure" values="DTD,XML,CSS,UNKNOWN,Images,JavaScript,htaccess,Smarty,HTML,SmartyConfig,PLAIN_TEXT,PHP" />
-    </group>
-    <group name="php-debug-skipped-paths">
-      <project id="cmsp-secure" values="0" />
-    </group>
-    <group name="javaScript Scope Usages">
-      <project id="cmsp-secure" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="cmsp-admin" values="XML,PHP,SCSS,htaccess,UNKNOWN,CSS,Cucumber,Images,JavaScript,PLAIN_TEXT,Smarty,HTML,Native,YAML,ARCHIVE,PHAR,JSON,DTD,Ini" />
+      <project id="cmsp-secure" values="CSS,UNKNOWN,PHP,HTML,DTD,SmartyConfig,htaccess,PLAIN_TEXT,JavaScript,Smarty,XML,Images" />
     </group>
     <group name="JavaScript versions">
+      <project id="cmsp-admin" values="DEFAULT" />
       <project id="cmsp-secure" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="cmsp-admin" values="Project,Project" />
+      <project id="cmsp-secure" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="cmsp-admin" values="0" />
+      <project id="cmsp-secure" values="0" />
     </group>
   </component>
 </application>
