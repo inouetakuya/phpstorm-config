@@ -1,9 +1,10 @@
-componentVersions/
-tasks/
-options/
+/componentVersions/
+/tasks/
+/options/
+/eval/
 
-port
-phpstorm*.key
+/port
+/phpstorm*.key
 
 # Ignore unneeded files created by MacOS
 .DS_Store
